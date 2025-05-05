@@ -3,7 +3,7 @@ import Container from '@/components/ui/Container';
 import { typography } from '@/styles/typography';
 import Link from 'next/link';
 import Image from 'next/image';
-import Heroimage from '@/images/Homepage/Heroimage.jpeg';
+import Heroimage from '@/images/Homepage/HeroImage.jpeg';
 import { colors } from '@/styles/colors';
 
 const HeroSection = () => {
