@@ -144,7 +144,7 @@ const PackageCards = ({
         </div>
         <div className="text-center ">
           <Link href={formurl} className="inline-block">
-          <Button variant="primary" className="mt-20">Get Styled Now</Button>
+          <Button variant="primary" className="mt-20">Book Now</Button>
           </Link>
         </div>
         <div className="text-center mt-10">
