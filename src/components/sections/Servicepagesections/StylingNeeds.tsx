@@ -79,7 +79,7 @@ const StylingNeeds = ({ title, description, imageUrl = "/images/styling-needs.jp
           </p>
           <div className="mt-8">
             <Link href= {formurl} className="inline-block">
-            <Button variant="primary" className="px-9 py-3">Get Styled Now</Button>
+            <Button variant="primary" className="px-9 py-3">Book Now</Button>
             </Link>
           </div>
         </div>
