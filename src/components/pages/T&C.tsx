@@ -44,8 +44,7 @@ const TermsAndConditionsPage = () => {
             
             <h2 className="text-xl font-semibold text-gray-900 mt-8">4. Payments</h2>
             <p className="text-gray-700">
-              Full payment is required to confirm any booking unless otherwise agreed. 
-              We accept online payments through secure payment gateways.
+              To secure your booking, an initial payment of the booking amount is required. The remaining balance may be settled at your convenience through a secure payment link, which will be shared with you subsequently.
             </p>
             
             <h2 className="text-xl font-semibold text-gray-900 mt-8">5. Cancellations & Refunds</h2>
